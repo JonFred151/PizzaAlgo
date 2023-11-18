@@ -1,5 +1,6 @@
 Step 1: choose a Pizza place to order from
 Step 2: Select the kind of Pizza
-Step 3: Order your pizza 
+Step 3: Order your pizza
+Step 3a: choose Toppings 
 Step 4: Enjoy your pizza 
 Step 5: Pizza pizza
